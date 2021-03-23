@@ -5,4 +5,5 @@ Project deploing process:
 - download archive or clone repository
 - create DB "library_db" for user:root and empty password
 - run migration files by "migration.php" script in application/services_scripts/
+
 Done!
